@@ -6,4 +6,4 @@ This is my 1st lab in COMP3111 - Software Engineering
 2. Created a repo to share with others.
 
 Here's the screenshot:
-![screenshot](../../../public/screenshot.png)
+![screenshot](../../../../public/screenshot.png)

@@ -1,3 +1,5 @@
+package Lab1;
+
 public class myLibrary {
     public static int Power(int Base, int Exponent){
         if (Exponent == 1)
